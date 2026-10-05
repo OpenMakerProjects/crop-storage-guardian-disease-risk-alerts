@@ -1,0 +1,20 @@
+{
+  "id": 192,
+  "title": "Crop Storage Guardian Disease Risk Alerts",
+  "repository_slug": "crop-storage-guardian-disease-risk-alerts",
+  "category": "Smart Agriculture",
+  "platform": "LoRa + Arduino",
+  "platform_family": "arduino",
+  "difficulty": "Beginner",
+  "estimated_hours": 16,
+  "connectivity": "Wi-Fi",
+  "components": [
+    "capacitive soil sensor",
+    "load cell"
+  ],
+  "scope": "Build a smart agriculture prototype that uses capacitive soil sensor, load cell to flag conditions associated with crop disease. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "Disease Risk Alerts demonstration with repeatable test steps",
+  "mode": "threshold_alert",
+  "entrypoint": "firmware/crop-storage-guardian-disease-risk-alerts/crop-storage-guardian-disease-risk-alerts.ino",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
